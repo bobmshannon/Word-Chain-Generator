@@ -4,7 +4,8 @@ at ate hate hat
 
 By modifying the run time parameters and input source, more interesting chains can be discovered.
 
-Usage:./WordChainGenerator [OPTIONS] command command...
+	Usage:./WordChainGenerator [OPTIONS] command command...
+
         --target-file [/path/to/file.txt]
         File to read words from. REQUIRED.
 
