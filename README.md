@@ -1,6 +1,6 @@
 This program takes an input text file and generates a list of words where each adjacent pair has an edit distance one. For example, the following will be a word chain:
 
-at ate hate hat
+	at ate hate hat
 
 By modifying the run time parameters and input source, more interesting chains can be discovered.
 
